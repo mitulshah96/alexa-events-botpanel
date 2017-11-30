@@ -1,0 +1,24 @@
+{
+    "apps": [
+        {
+            "name": "PA-Admin",
+            "script": "app.js",
+            "watch": false,
+            "env": {
+                "NODE_ENV": "local",
+                "HOST": "127.0.0.1",
+                "PORT": 3008
+            },
+            "env_staging": {
+                "NODE_ENV": "staging",
+                "HOST": "127.0.0.1",
+                "PORT": 4004
+            },
+            "env_production": {
+                "NODE_ENV": "production",
+                "HOST": "127.0.0.1",
+                "PORT": 4004
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "title": "First email",
+        "subject": "First email subject"
+    }, 
+    {
+        "title": "Second email",
+        "subject": "Second email subject"
+    },
+    {
+        "title": "Third email",
+        "subject": "Third email subject"
+    }, 
+    {
+        "title": "Fourth email",
+        "subject": "Fourth email subject"
+    },
+    {
+        "title": "Fifth email",
+        "subject": "Fifth email subject"
+    }, 
+    {
+        "title": "Sixth email",
+        "subject": "Sixth email subject"
+    }
+]

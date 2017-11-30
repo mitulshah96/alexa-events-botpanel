@@ -1,0 +1,19 @@
+{ 
+    "59d9a2e8695293a55460c4d6": {
+        "intents" : [ "calendar_widget" ], 
+        "service": "http://127.0.0.1:3004"
+    },
+    "59d9a2e8695293a55460c4d5": {
+        "intents" : [ "employee_onboarding" ], 
+        "service": "http://127.0.0.1:3005"
+    },
+    "59d9a2e8695293a55460c4d4": {
+        "intents" : [ "calendar_widget", "email_widget_intent", "about_amwater", "employee_onboarding", "recent_news" ], 
+        "service": "http://50.112.198.106:3070"
+    },
+    "59d9a1f4695293a55460c4d3": {
+        "intents" : [ "recent_news" ], 
+        "service": "http://127.0.0.1:3007"
+    }
+}
+
